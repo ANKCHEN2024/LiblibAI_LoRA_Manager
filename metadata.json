@@ -1,0 +1,9 @@
+{
+    "name": "LiblibAI LoRA Manager",
+    "version": "1.0.0",
+    "author": "MrLei Team",
+    "description": "Visual LoRA Model Management System",
+    "requirements": ["safetensors>=0.4.1", "watchdog>=3.0.0"],
+    "license": "Apache-2.0",
+    "homepage": ""
+}
